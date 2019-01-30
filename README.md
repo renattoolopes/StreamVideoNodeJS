@@ -11,14 +11,13 @@ Exemplo de stream de video usando Node.js
 
 #Como executar o projeto?
 
- 1 - Abra o terminal e navegue até o diretorio do projeto:
- 2 - Abra a pasta Back
- 3 - Execute o comento npm install
- 4 - Após terminar de instalar todas as dependencias, execute o comendo
+- Abra o terminal e navegue até o diretorio do projeto:
+- Abra a pasta Back
+- Execute o comento npm install
+- Após terminar de instalar todas as dependencias, execute o comendo
  	 node server.js (Com isso, você ira rodar o arquivo server.js e podera acessar a API atraves da URL
  	 http://localhost:8001
  	 )
- 5 - Agora volte uma pasta e acesse a pasta Front
- 6 - Abra o arquivo index.html em seu navegador
- 7 - Você tera uma tela como essa:
- 
+- Agora volte uma pasta e acesse a pasta Front
+- Abra o arquivo index.html em seu navegador
+- Você tera uma tela como essa:
