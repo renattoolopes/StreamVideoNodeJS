@@ -21,4 +21,4 @@ Exemplo de stream de video usando Node.js
 - Agora volte uma pasta e acesse a pasta Front
 - Abra o arquivo index.html em seu navegador
 - Você tera uma tela como essa:
-<img src="screeshot/index.png">
+![Index](screenshot/index.png)
