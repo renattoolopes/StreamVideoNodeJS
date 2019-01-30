@@ -1,0 +1,11 @@
+:root{
+
+	--primary-page-color: black;
+	--second-page-color: blue;
+}
+
+
+.card-video{
+	border: 2px solid var(--primary-page-color);
+	border-radius: 5px;
+}
